@@ -1,2 +1,0 @@
-# Digibhem
-for internship
